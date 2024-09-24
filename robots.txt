@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meother.github.io/sitemap.html.gz
+Sitemap: https://meother.github.io/app/sitemap.html.gz
+Sitemap: https://meother.github.io/assets/sitemap.html.gz
+Sitemap: https://meother.github.io/css/sitemap.html.gz
+Sitemap: https://meother.github.io/data/sitemap.html.gz
+Sitemap: https://meother.github.io/includes/sitemap.html.gz
+Sitemap: https://meother.github.io/item/sitemap.html.gz
+Sitemap: https://meother.github.io/src/sitemap.html.gz
